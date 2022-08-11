@@ -30,8 +30,8 @@ namespace Enumss
             MessageBox.Show(sinir.ToString());
         }
 
-
-    }
+        //
+    }//
 }
  //Low:0
  //Medium:1
